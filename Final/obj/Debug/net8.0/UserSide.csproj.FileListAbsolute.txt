@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\bin\Debug\net8.0\UserSide.exe
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\bin\Debug\net8.0\UserSide.deps.json
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\bin\Debug\net8.0\UserSide.runtimeconfig.json
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\bin\Debug\net8.0\UserSide.dll
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\bin\Debug\net8.0\UserSide.pdb
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.sourcelink.json
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.dll
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\refint\UserSide.dll
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.pdb
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\UserSide.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\Final\obj\Debug\net8.0\ref\UserSide.dll

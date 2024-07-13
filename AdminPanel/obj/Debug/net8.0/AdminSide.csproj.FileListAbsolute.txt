@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\bin\Debug\net8.0\AdminSide.exe
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\bin\Debug\net8.0\AdminSide.deps.json
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\bin\Debug\net8.0\AdminSide.runtimeconfig.json
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\bin\Debug\net8.0\AdminSide.dll
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\bin\Debug\net8.0\AdminSide.pdb
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.sourcelink.json
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.dll
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\refint\AdminSide.dll
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.pdb
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\AdminSide.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#Final\FinalMarket\Final\AdminPanel\obj\Debug\net8.0\ref\AdminSide.dll
